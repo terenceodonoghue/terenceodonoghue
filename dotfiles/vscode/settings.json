@@ -1,0 +1,65 @@
+{
+  "breadcrumbs.enabled": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "FiraCode-Retina, monospace",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "eslint.packageManager": "yarn",
+  "editor.parameterHints.enabled": false,
+  "editor.suggestSelection": "first",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "explorer.autoReveal": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.associations": {
+    "*.mdx": "markdown"
+  },
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "git.autofetch": true,
+  "html.autoClosingTags": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "keyboard.touchbar.enabled": false,
+  "prettier.arrowParens": "always",
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "python.languageServer": "Microsoft",
+  "python.showStartPage": false,
+  "python.terminal.activateEnvironment": false,
+  "python.venvPath": "~/Library/Caches/pypoetry/virtualenvs",
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Shades of Purple",
+  "workbench.editor.showTabs": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none"
+}
