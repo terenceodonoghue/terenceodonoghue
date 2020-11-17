@@ -26,4 +26,6 @@
 
 ### Misc
 
+- [gitignore.io](https://www.toptal.com/developers/gitignore) - Create useful .gitignore files for your project.
 - [Shields.io](https://shields.io/) - Badge generation service for use in GitHub READMEs or any other web page.
+- [Shortcuts.design](https://shortcuts.design/) - Every shortcut for designers and developers in one place.
