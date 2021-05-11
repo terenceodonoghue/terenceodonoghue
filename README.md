@@ -20,6 +20,7 @@
 
 ### Industry Tools
 
+- [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - A quick reference for basic Git commands to help you learn Git.
 - [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962) - Useful instructions for giving back to open source or collaborating on your own projects.
 - [The State of CSS](https://stateofcss.com/) - An annual survey about the latest trends in CSS.
 - [The State of JavaScript](https://stateofjs.com/) - An annual survey on topics ranging from frontend frameworks and state management, to build tools and testing libraries.
