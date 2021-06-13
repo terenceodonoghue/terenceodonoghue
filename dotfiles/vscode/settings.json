@@ -22,7 +22,6 @@
   "editor.fontFamily": "FiraCode-Retina, monospace",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
-  "editor.minimap.enabled": false,
   "editor.wordWrap": "on",
   "eslint.packageManager": "yarn",
   "editor.parameterHints.enabled": false,
@@ -35,9 +34,6 @@
   ],
   "explorer.autoReveal": false,
   "explorer.confirmDragAndDrop": false,
-  "files.associations": {
-    "*.mdx": "markdown"
-  },
   "files.exclude": {
     "**/.classpath": true,
     "**/.project": true,
@@ -45,21 +41,26 @@
     "**/.factorypath": true
   },
   "git.autofetch": true,
-  "html.autoClosingTags": false,
+  "gitlens.advanced.messages": {
+    "suppressRebaseSwitchToTextWarning": true
+  },
+  "gitlens.hovers.enabled": false,
   "javascript.updateImportsOnFileMove.enabled": "never",
   "keyboard.touchbar.enabled": false,
   "prettier.arrowParens": "always",
   "prettier.singleQuote": true,
   "prettier.trailingComma": "all",
-  "python.languageServer": "Microsoft",
+  "python.languageServer": "Pylance",
   "python.showStartPage": false,
   "python.terminal.activateEnvironment": false,
   "python.venvPath": "~/Library/Caches/pypoetry/virtualenvs",
-  "terminal.integrated.cwd": "${workspaceFolder}",
-  "terminal.integrated.shell.osx": "/bin/zsh",
-  "window.zoomLevel": 0,
+  "terminal.integrated.defaultProfile.osx": "zsh",
   "workbench.colorTheme": "Shades of Purple",
   "workbench.editor.showTabs": true,
+  "workbench.editorAssociations": {
+    "git-rebase-todo": "default",
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none"
 }
