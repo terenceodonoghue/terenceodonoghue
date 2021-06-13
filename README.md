@@ -6,6 +6,7 @@
 
 - [Flexbox Defense](http://www.flexboxdefense.com/) - Unlike other tower defense games, you must position your towers using CSS!
 - [Flexbox Froggy](https://flexboxfroggy.com/) - A game for learning CSS flexbox.
+- [Grid Garden](https://cssgridgarden.com/) - A game for learning CSS grid.
 
 ### Design & UX
 
