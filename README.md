@@ -11,6 +11,7 @@
 ### Design & UX
 
 - [Adele](https://adele.uxpin.com/) - Repository of publicly available design systems and pattern libraries.
+- [User Experience Database](https://www.uxdatabase.io/product-database) - Free database of curated products.
 
 ### Cheat sheets
 
