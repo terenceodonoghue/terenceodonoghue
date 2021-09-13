@@ -24,6 +24,6 @@
 - [The State of CSS](https://stateofcss.com/)
 - [UX Design Tools Survey](https://uxtools.co/survey-2020/)
 
-### Misc
+### TIL
 
 - [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962) - Useful instructions for giving back to open source or collaborating on your own projects.
