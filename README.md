@@ -18,11 +18,10 @@
 - [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - A quick reference for basic Git commands.
 - [Shortcuts.design](https://shortcuts.design/) - Every shortcut for designers and developers in one place.
 
-### Annual surveys
+### Surveys
 
-- [The State of JavaScript](https://stateofjs.com/)
-- [The State of CSS](https://stateofcss.com/)
-- [UX Design Tools Survey](https://uxtools.co/survey-2020/)
+- [The State of JavaScript](https://stateofjs.com/) - An annual survey on topics ranging from frontend frameworks and state management, to build tools and testing libraries.
+- [The State of CSS](https://stateofcss.com/) - An annual survey about the latest trends in CSS.
 
 ### TIL
 
